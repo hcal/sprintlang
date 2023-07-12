@@ -1,5 +1,17 @@
 # SprintLang Language Definition
 
+## Index
+- [Overview](#overview)
+- [Syntax](#syntax)
+  - [Project File](#project-file)
+    - [Metadata](#metadata)
+    - [Modules](#modules)
+    - [Sprints](#sprints)
+    - [Task Files](#task-files)
+  - [Task File](#task-file)
+    - [Tasks](#tasks)
+- [Semantics](#semantics)
+
 ## Overview
 
 SprintLang is a lightweight markup language (LML) designed for project management. The language provides a structured yet human-readable way to define and manage projects, including project metadata, modules, sprints, and tasks.
