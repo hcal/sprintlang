@@ -1,0 +1,24 @@
+# speaker_arrangement.tasks
+
+Task: Speaker Outreach
+BelongsTo: Module Speaker Arrangement
+BelongsTo: Sprint Sprint 1
+Description: Reach out to potential speakers and invite them to the conference.
+Status: In Progress
+Progress: 80%
+Start: 2023-07-01
+Due: 2023-07-10
+Priority: High
+Assigned to: Bob
+
+Task: Speaker Confirmation
+BelongsTo: Module Speaker Arrangement
+BelongsTo: Sprint Sprint 2
+Description: Confirm the list of speakers for the conference.
+Status: Not Started
+Progress: 0%
+Start: 2023-07-11
+Due: 2023-07-20
+Priority: Medium
+Assigned to: Bob
+
