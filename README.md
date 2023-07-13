@@ -21,7 +21,12 @@ SprintLang is currently in the design stage. The basic syntax for defining proje
 
 ## To-Do
 
-The next stage of development involves creating a Python library and command-line interface (CLI) program that can parse SprintLang files, interact with the data, and provide summaries, suggestions, and other valuable project management insights. This will involve defining the formal syntax and grammar of the language, developing the parser, and testing the program with various project scenarios.
+- complete the lml design
+- create a Python library
+- create command-line interface (CLI) program that
+  - can parse SprintLang files
+  - interact with the data,
+  - provide summaries, suggestions, and other valuable project management insights (possibly using gpt-4)
 
 ## Contributing
 
