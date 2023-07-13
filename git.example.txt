@@ -1,0 +1,6 @@
+  239  git status
+  240  git add -A
+  241  git commit -m "Updated project structure, files and design"
+  242  git push origin main
+  243  git status
+  244  history 
