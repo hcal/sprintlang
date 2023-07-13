@@ -4,6 +4,9 @@ SprintLang is a lightweight markup language (LML) designed for intuitive project
 
 It is a personal project that I'd be happy to share, but it is more of a "what if" project than a useable tool today - and that may be all it ever is.
 
+> **I could truely use your help with the design of SprintLang**.  Feel free to send any suggestions my way.  Even if you're a non-technical person but have a good idea create an issue or feature request anyway!   [Contributing](#contributing)
+
+
 ## Table of Contents
 - [Background](#background)
 - [Current State](#current-state)
@@ -30,7 +33,9 @@ SprintLang is currently in the design stage. The basic syntax for defining proje
 
 ## Contributing
 
-We welcome contributions! Whether it's feedback on the language design, suggestions for features, or code for the upcoming Python program, all contributions are appreciated.
+I absolutely welcome your contributions! I'm excited to receive feedback on SprintLang's design, hear your feature suggestions, and even receive code for the upcoming Python program. Rest assured, this is a no judgment zone. Critism of the design and code is enouraged, but no critism of the contributors will be allowed!
+
+Feel free to ask any questions or make any suggestions you may have. If you have any fixes or code contributions those are welcome too!  I just want to create something cool and useful. Your input and contributions will be received  with grace and appreciation for your willingness to be a part of this project.  
 
 ## License
 
