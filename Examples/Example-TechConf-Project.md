@@ -1,5 +1,3 @@
-Sure, here's a project write-up in English:
-
 # Tech Conference 2023
 
 ## Project Overview

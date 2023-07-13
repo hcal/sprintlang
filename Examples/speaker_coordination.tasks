@@ -1,0 +1,27 @@
+Task: Speaker Outreach
+  Module: Speaker Coordination
+  Cycle: Initial Planning
+  Description: Reach out to potential speakers and invite them to the conference.
+  Status: In Progress
+  Progress: 80
+  Start: 2023-07-01
+  Due: 2023-07-10
+  Priority: Medium
+  Assigned to: Bob
+  <Notes>
+  We have contacted most of the speakers. Awaiting their confirmation.
+  </Notes>
+
+Task: Speaker Confirmation
+  Module: Speaker Coordination
+  Cycle: Detailed Organization
+  Description: Confirm the list of speakers for the conference.
+  Status: Not Started
+  Progress: 0
+  Start: 2023-07-11
+  Due: 2023-07-20
+  Priority: Medium
+  Assigned to: Bob
+  <Notes>
+  </Notes>
+

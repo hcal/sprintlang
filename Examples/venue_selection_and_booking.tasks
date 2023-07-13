@@ -1,0 +1,28 @@
+Task: Venue Research
+  Module: Venue Selection and Booking
+  Cycle: Initial Planning
+  Description: Research potential venues for the conference and gather information on pricing, capacity, and availability. 
+  Status: Completed
+  Progress: 100
+  Start: 2023-07-01
+  Due: 2023-07-05
+  Priority: High
+  Assigned to: Alice
+  <Notes>
+  The venue research has been completed successfully.
+  </Notes>
+
+Task: Venue Booking
+  Module: Venue Selection and Booking
+  Cycle: Detailed Organization
+  Description: Book the chosen venue for the conference.
+  Status: In Progress
+  Progress: 50
+  Start: 2023-07-06
+  Due: 2023-07-10
+  Priority: High
+  Assigned to: Alice
+  <Notes>
+  We are currently negotiating the final booking details with the venue.
+  </Notes>
+
